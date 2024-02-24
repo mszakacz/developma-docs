@@ -2,4 +2,4 @@
 Apps:
 
 ## Word Guessing
-[Privacy Policy](https://www.google.com)
+[Privacy Policy](https://mszakacz.github.io/developma-docs/word-guessing/privacy-policy.html)
