@@ -6,3 +6,6 @@ Apps:
 
 ## Quick Ball
 [Privacy Policy](https://mszakacz.github.io/developma-docs/quick-ball/privacy-policy.html)
+
+## Matma 100%
+[Terms and Conditions](https://mszakacz.github.io/developma-docs/math/terms_and_conditions.html)
