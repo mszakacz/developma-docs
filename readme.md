@@ -9,3 +9,4 @@ Apps:
 
 ## Matma 100%
 [Terms and Conditions](https://mszakacz.github.io/developma-docs/math/terms_and_conditions.html)
+[Page](https://mszakacz.github.io/developma-docs/matma100.html)
