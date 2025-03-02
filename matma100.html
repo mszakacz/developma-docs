@@ -14,12 +14,13 @@
         }
         .container {
             max-width: 1200px;
-            margin: 20px auto;
+            margin: 0 auto;
             background: white;
             padding: 20px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
             border-radius: 10px;
         }
+        
         .app-logo {
             width: 200px;
             border-radius: 24px;
@@ -62,7 +63,7 @@
             width: 60px;
         }
         .qr-codes img {
-            width: 100px;
+            width: 100%;
         }
         @media (max-width: 600px) {
             .store-links {
@@ -71,15 +72,11 @@
             .store-item {
                 width: 100%;
             }
-        }
-        @media (max-width: 400px) {
-            body {
-                transform: scale(0.9);
+            .store-item img.store-icon {
+                width: 30px;
             }
-        }
-        @media (max-width: 350px) {
-            body {
-                transform: scale(0.8);
+            .qr-codes img {
+                width: 60%;
             }
         }
     </style>
@@ -88,6 +85,7 @@
     <div class="container">
         <img src="assets/math_icon_512x512.png" alt="App Logo" class="app-logo">
         <h1>Przygotujemy Cię do Matury 2025 z Matematyki</h1>
+        <h5>Aplikacja mobilna za iOS i Android</h4>
         
         <div class="screenshots">
             <img src="assets/math_screen1.jpeg" alt="Screen 1">
@@ -96,23 +94,9 @@
             <img src="assets/math_screen4.jpeg" alt="Screen 4">
             <img src="assets/math_screen5.jpeg" alt="Screen 5">
             <img src="assets/math_screen6.jpeg" alt="Screen 6">
-            <!-- <img src="assets/math_screen7.jpeg" alt="Screen 7"> -->
         </div>
         
-        <h5>Aplikacja mobilna za iOS i Android</h4>
         <h2>Pobierz za darmo</h2>
-        <!-- <div class="store-links">
-            <div class="store-item">
-                <img src="assets/appstore.png" alt="App Store">
-                <div class="store-text">App Store</div>
-                <img src="assets/app_store_qr.png" alt="QR Code for App Store">
-            </div>
-            <div class="store-item">
-                <img src="assets/google_play.png" alt="Google Play">
-                <div class="store-text">Google Play</div>
-                <img src="assets/google_play_qr.png" alt="QR Code for Google Play">
-            </div>
-        </div> -->
 
         <div class="store-links">
             <div class="store-item">
@@ -120,14 +104,18 @@
                     <img src="assets/appstore.png" alt="App Store" class="store-icon">
                     <div class="store-text">App Store</div>
                 </a>
-                <img src="assets/app_store_qr.png" alt="QR Code for App Store">
+                <div class="qr-codes">
+                    <img src="assets/app_store_qr.png" alt="QR Code for App Store">
+                </div>
             </div>
             <div class="store-item">
                 <a href="https://play.google.com/store/apps/details?id=com.developma.math&pli=1" target="_blank">
                     <img src="assets/google_play.png" alt="Google Play" class="store-icon">
                     <div class="store-text">Google Play</div>
                 </a>
-                <img src="assets/google_play_qr.png" alt="QR Code for Google Play">
+                <div class="qr-codes">
+                    <img src="assets/google_play_qr.png" alt="QR Code for Google Play">
+                </div>
             </div>
         </div>
     </div>
