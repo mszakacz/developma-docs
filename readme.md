@@ -11,3 +11,6 @@ Apps:
 - [Terms and Conditions](https://mszakacz.github.io/developma-docs/math/terms_and_conditions.html)
  
 - [Page](https://mszakacz.github.io/developma-docs/matma100.html)
+
+## Geo Mapa (Parcel Map)
+[Privacy Policy](https://mszakacz.github.io/developma-docs/geo-mapa/polityka-prywatnosci.html)
