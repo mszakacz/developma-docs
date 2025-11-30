@@ -9,9 +9,9 @@ Apps:
 
 ## Matma 100%
 - [Terms and Conditions](https://mszakacz.github.io/developma-docs/math/terms_and_conditions.html)
-- [Page](https://mszakacz.github.io/developma-docs/matma100.html)
-- [Privacy Policy](https://mszakacz.github.io/developma-docs/privacy-policy.html)
-- [Delete account](https://mszakacz.github.io/developma-docs/delete_account.html)
+- [Landing Page](https://mszakacz.github.io/developma-docs/matma100.html)
+- [Privacy Policy](https://mszakacz.github.io/developma-docs/math/privacy-policy.html)
+- [Delete account](https://mszakacz.github.io/developma-docs/math/delete_account.html)
 
 ## Geo Mapa (Parcel Map)
 [Privacy Policy](https://mszakacz.github.io/developma-docs/geo-mapa/polityka-prywatnosci.html)
